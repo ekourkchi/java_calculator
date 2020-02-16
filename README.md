@@ -28,4 +28,5 @@ Graphical user interface that uses the `Calculator` class
    - - - -
    
  * Author: Ehsan Kourkchi <ekourkchi@gmail.com>
+ * Date: October 2013
  * Feel free to distribute and modify for a better performance
