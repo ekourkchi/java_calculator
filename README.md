@@ -1,4 +1,4 @@
-# java_calculator
+# A Calculator in Java
 
 ![assignment06 demo](https://user-images.githubusercontent.com/13570487/74612633-4898b180-50c4-11ea-9de4-9ef6b3480b86.jpg)
 
@@ -22,3 +22,10 @@ Example:
 ### File: *CalcGUI.java*
 
 Graphical user interface that uses the `Calculator` class
+
+
+
+   - - - -
+   
+ * Author: Ehsan Kourkchi <ekourkchi@gmail.com>
+ * Feel free to distribute and modify for a better performance
